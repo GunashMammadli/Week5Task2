@@ -1,0 +1,14 @@
+C:\Users\gunas\Desktop\taskweek5\taskhomework\bin\Debug\net6.0\taskhomework.exe
+C:\Users\gunas\Desktop\taskweek5\taskhomework\bin\Debug\net6.0\taskhomework.deps.json
+C:\Users\gunas\Desktop\taskweek5\taskhomework\bin\Debug\net6.0\taskhomework.runtimeconfig.json
+C:\Users\gunas\Desktop\taskweek5\taskhomework\bin\Debug\net6.0\taskhomework.dll
+C:\Users\gunas\Desktop\taskweek5\taskhomework\bin\Debug\net6.0\taskhomework.pdb
+C:\Users\gunas\Desktop\taskweek5\taskhomework\obj\Debug\net6.0\taskhomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gunas\Desktop\taskweek5\taskhomework\obj\Debug\net6.0\taskhomework.AssemblyInfoInputs.cache
+C:\Users\gunas\Desktop\taskweek5\taskhomework\obj\Debug\net6.0\taskhomework.AssemblyInfo.cs
+C:\Users\gunas\Desktop\taskweek5\taskhomework\obj\Debug\net6.0\taskhomework.csproj.CoreCompileInputs.cache
+C:\Users\gunas\Desktop\taskweek5\taskhomework\obj\Debug\net6.0\taskhomework.dll
+C:\Users\gunas\Desktop\taskweek5\taskhomework\obj\Debug\net6.0\refint\taskhomework.dll
+C:\Users\gunas\Desktop\taskweek5\taskhomework\obj\Debug\net6.0\taskhomework.pdb
+C:\Users\gunas\Desktop\taskweek5\taskhomework\obj\Debug\net6.0\taskhomework.genruntimeconfig.cache
+C:\Users\gunas\Desktop\taskweek5\taskhomework\obj\Debug\net6.0\ref\taskhomework.dll
